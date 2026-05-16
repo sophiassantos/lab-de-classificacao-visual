@@ -18,9 +18,10 @@ generalização do modelo.
 
 ### Teste de Inferência e Registro do Erro
 
-![Modelo treinado - dataset](assets/modelo-treinado.png)
+<img width="1346" height="636" alt="image" src="https://github.com/user-attachments/assets/0a1f0c76-89a9-44dd-b7c8-24fb944d02b4" />
 
-![Classificação incorreta - viés detectado](assets/erro-classificacao.png)
+<img width="1333" height="614" alt="image" src="https://github.com/user-attachments/assets/3a577c32-1da2-4bb1-94d2-3acd3905d1c4" />
+
 
 > ⚠️ **Erro registrado:** Um tênis **original** (Adidas branco) foi 
 > classificado pelo modelo com **98% de confiança** como **tênis falso** 
